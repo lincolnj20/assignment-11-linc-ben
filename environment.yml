@@ -1,0 +1,9 @@
+name: assignment9
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytest
+  - pip
+  - pandas
